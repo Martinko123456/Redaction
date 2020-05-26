@@ -1,10 +1,10 @@
 Autor: Martin Jakubec
-Nazov: Bomby
+Nazov: Záchrana Štrbského Plesa
 Datum: 26.5.2020
 ----
-Tento text predstavuje UVOD clanku. Bude hned pod styrmi pomlckami
-a bude vzdy na 3 riadkoch bez ohladu na to
-ake dlhe budu.
+Masívna výstavba na Štrbskom Plese nehrozí, 
+uistil šéf envirorezortu Budaj.
+
 ----
 Tento text predstavuje OBSAH clanku. Bude hned pod styrmi pomlckami
 a bude vzdy na 3 riadkoch bez ohladu na to
