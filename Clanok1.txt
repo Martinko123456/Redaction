@@ -1,10 +1,14 @@
 Autor: Martin Jakubec
+<<<<<<< Updated upstream:Clanok1.txt
 Nazov: Aktuality
+=======
+Nazov: Štrbské pleso
+>>>>>>> Stashed changes:ClanokV2.txt
 Datum: 26.5.2020
 ----
-Tento text predstavuje UVOD clanku. Bude hned pod styrmi pomlckami
-a bude vzdy na 3 riadkoch bez ohladu na to
-ake dlhe budu.
+Boj o zachovanie Štrbského Plesa pokračuje. 
+Štrba chce obnoviť starú zjazdovku a hotel
+
 ----
 Tento text predstavuje OBSAH clanku. Bude hned pod styrmi pomlckami
 a bude vzdy na 3 riadkoch bez ohladu na to
