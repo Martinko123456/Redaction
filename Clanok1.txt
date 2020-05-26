@@ -1,9 +1,5 @@
 Autor: Martin Jakubec
-<<<<<<< Updated upstream:Clanok1.txt
-Nazov: Aktuality
-=======
 Nazov: Štrbské pleso
->>>>>>> Stashed changes:ClanokV2.txt
 Datum: 26.5.2020
 ----
 Boj o zachovanie Štrbského Plesa pokračuje. 
